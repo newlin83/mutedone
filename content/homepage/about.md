@@ -1,11 +1,11 @@
 ---
-title: Example Author
+title: James Newlin
 draft: false
-role: Example Role
+role: Building Science Specialist
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: I live in Seattle and work as a Building Science Specialist at 4EA Building Science. I first moved here in 2015 to begin my job.
 organization:
-  name: Example Organization
+  name: 4EA Building Science
   url: https://example.com/
 social:
   - icon: envelope
@@ -45,19 +45,21 @@ widget:
 
 ## Self Introduction
 
-Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
+I graduated from The University of Texas at Austin in 2006 with a B.S. in Architectural Engineering. I then attended Texas A&M University and graduated with an M.E. in Civil Engineering (Structural)
 
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
+I began my career at Walter P Moore as a Graduate Engineer in the Structural Diagnostics Services group in 2007. I left Walter P Moore in 2011, when I then worked for RDH Building Science from 2011 to 2012. 
+
+In 2012 I took some personal time off and worked outside of the industry. In 2014 and 2015 I worked as a structural engineer at two companies in the Washington D.C. area.
+
+In 2015 I moved to Seattle and began working for 4EA Building Science, where I continue to work. I worked remotely from late 2019 until 2023 in Idaho. I then temporarily left 4EA from Feb through Oct of 2023, when I worked for other companies and was going through a difficult personal trouble. In 2024, I hope to get back on track and continue my career with 4EA.
 
 ## Details  
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
-
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+I have experience in the following:
+- Structural diagnostics
+- Air barrier design and detailing
+- Structural design
+Some project types I work on:
+- 5 over 2 (wood frame on podium slab)
+- Concrete & steel low-rise
+- Concrete parking structures
